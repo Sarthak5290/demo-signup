@@ -1,0 +1,26 @@
+
+I want to create new project.
+In this project we have two folders 1. backend 2. frontend.
+Now I want to create user signup, admin signup, user login and admin login and home pages according to user or login.
+If user login we redirect user to user's home page and if admin login we redirect admin to admin's home page.
+we are going to use mongodb, nodejs, becrypt and jwttoken for backend.
+we are going to use reactjs for frontend.
+I need complete guide to complete this project complete file structure to understand the project structure.
+
+
+
+
+problem 
+If I login as a admin and click on back arrow of browser it goes to the page of user 
+but i want to stay it on admins page when i login useing admin and on users page when i login using user
+
+
+
+i provide you the styling for signup and login page 
+on the click on signup it switches to the signup page and vise versa
+you can learn the code and give me my admin.js and login.js page
+use tailwind only for the css (convert the simple css into tailwind for my project) 
+
+
+use css and add trasaction effect when we click on signup page to go to signup page and 
+when we click on login page to login page
